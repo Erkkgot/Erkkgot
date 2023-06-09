@@ -13,3 +13,8 @@
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cpp" title="Cpp" />
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Vsc" title="Vsc" />
 </div>
+
+
+### 📆 Estatísticas
+- Minhas estatísticas no GitHub:
+![Erkkgot](https://github-readme-stats.vercel.app/api?username=Erkkgot&show_icons=true&theme=radical)
