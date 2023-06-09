@@ -18,5 +18,5 @@
 ### 📆 Estatísticas
 - Minhas estatísticas no GitHub:
 <div align="center">
-![Erkkgot](https://github-readme-stats.vercel.app/api?username=Erkkgot&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Erkkgot&show_icons=true&theme=radical
 </div>
