@@ -6,7 +6,7 @@
 
 ### 💾 Stack
 - Tecnologias que uso:
-<div align="left">
+<div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" title="IntelliJ"/>
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="Lua" title="Lua"/>
