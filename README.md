@@ -1,11 +1,12 @@
-### 👋 Olá! Me chamo Erik e sou um entusiasta da área de tecnoligia.
+### 👋 Hello there!
 
-- 🦠 Atualmente estudo Java;
-- 🏠 Moro em Uberlândia-MG
+- 🤓 My name is Erik;
+- 🦠 I'm currently studying Java;
+- 🏠 I live in Uberlândia, Minas Gerais, Brazil.
 
 
-### 💾 Stack
-- Tecnologias que uso:
+### 💾 My Stack
+- The technologies I use:
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" title="IntelliJ"/>
@@ -15,7 +16,7 @@
 </div>
 
 
-### 📆 Estatísticas
+### 📆 Statistics:
 <div align=center>
 	<img height=180em src="https://github-readme-stats.vercel.app/api?username=Erkkgot&show_icons=true" />
 	<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erkkgot&hide_progress=true" />
