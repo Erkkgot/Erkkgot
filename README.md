@@ -29,4 +29,4 @@ Feel free to get in touch with me! Let's exchange ideas, collaborate on projects
 
 <img src="https://media.tenor.com/Vant9OGye9gAAAAC/rainbow-bar-divider.gif ">
 
-Made with ❤️ by Erik Felipe
+##### Made with ❤️ by Erik Felipe
