@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here you will find projects and experiments relate
 
 ## 🚀 Skills
 
-- ☕️ Java
+- ☕️ Java ( Nothing advanced )
 - 🌙 Lua
 - 🆚 Currently learning JavaScript
 - 📇 Photoshop
