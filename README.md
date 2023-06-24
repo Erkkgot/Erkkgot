@@ -15,10 +15,10 @@ Welcome to my GitHub profile! Here you will find projects and experiments relate
 
 ## 🚀 Skills
 
-- ☕️ Java ( Nothing advanced )
-- 🌙 Lua
 - 📦 Html
 - 🖍 Css
+- ☕️ Java ( Nothing advanced )
+- 🌙 Lua
 - 🆚 Currently learning JavaScript
 - 📇 Photoshop
 
