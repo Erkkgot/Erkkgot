@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here you will find projects and experiments relate
 Feel free to get in touch with me! Let's exchange ideas, collaborate on projects, or simply have a chat about technology.
 
 - 📧 Email: erikfelipe062@gmail.com
-- 💬 Discord: Erkkk#2878
+- 💬 Discord: erkkj
 
 <img src="https://media.tenor.com/Vant9OGye9gAAAAC/rainbow-bar-divider.gif ">
 
