@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/8f/06/9d/8f069d9c53b0c31881204232f50da0cf.gif">
+<img width="100%" src="https://i.pinimg.com/originals/8f/06/9d/8f069d9c53b0c31881204232f50da0cf.gif">
 
 # 👋 Hello there!
 
