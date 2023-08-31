@@ -18,6 +18,7 @@ Welcome to my GitHub profile! Here you will find projects and experiments relate
 - 📦 Html
 - 🖍 Css
 - ☕️ Java ( Basics )
+- 👌 C++
 - 🌙 Lua
 - 🆚 Currently learning JavaScript
 - 📇 Photoshop
