@@ -17,10 +17,10 @@ Welcome to my GitHub profile! Here you will find projects and experiments relate
 
 - 📦 Html
 - 🖍 Css
-- ☕️ Java ( Basics )
+- ☕️ Java
 - 👌 C++
 - 🌙 Lua
-- 🆚 Currently learning JavaScript
+- 🆚 JavaScript
 - 📇 Photoshop
 
 ## 📫 Let's Connect?
