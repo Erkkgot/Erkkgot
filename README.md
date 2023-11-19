@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here you will find projects and experiments relate
 
 ## 📫 Let's Connect?
 
-Feel free to get in touch with me! Let's exchange ideas, collaborate on projects, or simply have a chat about technology.
+Feel free to get in contact with me! Let's exchange ideas, collaborate on projects, or simply have a chat.
 
 - 📧 Email: erikfelipe062@gmail.com
 - 💬 Discord: erkkj
